@@ -1,0 +1,72 @@
+{
+  "base_url": "https://raw.githubusercontent.com/dima22223/hachimi-ru/main",
+  "zip_url": "https://codeload.github.com/dima22223/hachimi-ru/zip/refs/heads/main",
+  "zip_dir": "hachimi-ru-main",
+  "files": [
+    {
+      "path": "assets/ru-calibri.hachifont",
+      "hash": "b9360baae19d9382695ac86419711feec917aac86b7441da0ffe3b11f6caafe2",
+      "size": 1590642
+    },
+    {
+      "path": "character_system_text_dict.json",
+      "hash": "f5c124e60665d9030b44c1e2d289c5c498dbef05d68a93944dc05bb5cbd0ec6b",
+      "size": 1020851
+    },
+    {
+      "path": "config.json",
+      "hash": "2513836627a15bb5c3ee3e2ee4cf627d4d77cf704db6852984f2bffea238e909",
+      "size": 2008
+    },
+    {
+      "path": "hashed_dict.json",
+      "hash": "40972b733238292b23954e47969a84e8a34c130432bdd93a2b3fd131efd74fa5",
+      "size": 15195
+    },
+    {
+      "path": "includes_win",
+      "hash": "45e455bda0baec26578b58f8c3f58c5691da77ec596fb081989ca234ffae2f29",
+      "size": 1589898
+    },
+    {
+      "path": "info.json",
+      "hash": "f778927c172b81ce470705dcf8338aac485b69f2b7dc1529ebd162ac417f0078",
+      "size": 272
+    },
+    {
+      "path": "localize_dict.json",
+      "hash": "7481622b9de145711d1fc3aeb76bd4b7a941f39cc7274da92165454381862278",
+      "size": 698917
+    },
+    {
+      "path": "localized_data/config.json",
+      "hash": "da3001885dea4daa77d9fa1bf5276445009cd9425127f70a34c2fcca11130f6b",
+      "size": 534
+    },
+    {
+      "path": "localized_data/localize_dict.json",
+      "hash": "b51f08b698d88d8027a935d9db649774949f5fb41a0c559bfee6a9a13225c72d",
+      "size": 4
+    },
+    {
+      "path": "race_jikkyo_comment_dict.json",
+      "hash": "102b46cef51ff68d65cbf4664f55dad3e1878da0b02468ffbb75523b632bf7c9",
+      "size": 24033
+    },
+    {
+      "path": "race_jikkyo_message_dict.json",
+      "hash": "446a5f1ed98a3411bc14a397e12d5ae75c9256fc2df1205bc3bd1db08b5ee052",
+      "size": 192311
+    },
+    {
+      "path": "ru-calibri.hachifont",
+      "hash": "bfe1fe3727458f9ca888d8a98dda2733b21a50c0f82407036fafbdb2e2c6c7e4",
+      "size": 1590642
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "72acb47cd6ac5067184a293ccdc743c7489efa13ca3a35e05ffe014ebcb269ad",
+      "size": 3491592
+    }
+  ]
+}
