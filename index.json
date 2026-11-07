@@ -15,8 +15,8 @@
     },
     {
       "path": "config.json",
-      "hash": "24d12487f7c6ce31399a955d12fa45a29a05da25095ab0198d06fa42cca7a00d",
-      "size": 2008
+      "hash": "06af1323616bfd233a3a5b43ddc0bb115ee5dff79bcd9ae6e14a63822403c3e6",
+      "size": 1902
     },
     {
       "path": "hashed_dict.json",
@@ -35,8 +35,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "e4aa056a757c68d66b759371b2903b064fc7c0e9802c5118c70166c26a135b64",
-      "size": 698917
+      "hash": "02291739f3f4b665db8ae1eed9694f90158cfdd8440f7e566088b8a8e2b2a3a9",
+      "size": 701697
     },
     {
       "path": "localized_data/config.json",
