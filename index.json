@@ -15,13 +15,18 @@
     },
     {
       "path": "config.json",
-      "hash": "06af1323616bfd233a3a5b43ddc0bb115ee5dff79bcd9ae6e14a63822403c3e6",
-      "size": 1902
+      "hash": "dd13b843076e83a6c3a63b98ca03789909a10fd335c0a74625187611508ffe4d",
+      "size": 1941
     },
     {
       "path": "hashed_dict.json",
       "hash": "0aeeb79b19414a73cc617deb437d8b0efa82cdfed7fedc5d92747062d84bd905",
       "size": 15195
+    },
+    {
+      "path": "includes_android",
+      "hash": "b0e84af7d0a51662e3e597aa008ea46dfdb3591a9a5d5e14848576c205312e9d",
+      "size": 1808037
     },
     {
       "path": "includes_win",

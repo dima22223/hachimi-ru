@@ -7,7 +7,8 @@
     "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
     "assets_dir": "assets",
     "extra_asset_bundle": {
-        "windows": "includes_win"
+        "windows": "includes_win",
+        "android": "includes_android"
     },
     "replacement_font_name": "assets/rodinwanpakupro-umatl.otf",
     "plural_form": "n == 1 ? 0 : 1",
