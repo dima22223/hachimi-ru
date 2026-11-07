@@ -25,8 +25,8 @@
     },
     {
       "path": "includes_android",
-      "hash": "b0e84af7d0a51662e3e597aa008ea46dfdb3591a9a5d5e14848576c205312e9d",
-      "size": 1808037
+      "hash": "1939d1d97cd520da8436c77639ac01f86aac3db624ba887c1d7c6e8c6e585df8",
+      "size": 1589898
     },
     {
       "path": "includes_win",
@@ -40,8 +40,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "02291739f3f4b665db8ae1eed9694f90158cfdd8440f7e566088b8a8e2b2a3a9",
-      "size": 701697
+      "hash": "d38a0160ae99700981cfc6a9040974afd9a7a43414a09fce28ed1c1d481e106a",
+      "size": 701767
     },
     {
       "path": "localized_data/config.json",
